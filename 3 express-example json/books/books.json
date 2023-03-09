@@ -1,0 +1,84 @@
+[
+  {
+    "id": "YxhM4QDxPeA3SmPHcEZPJ",
+    "title": "Practical Modern JavaScript",
+    "author": "Nicolas Bevacqua"
+  },
+  {
+    "id": "zCd_RioNMOBaQwAXnc8Px",
+    "title": "Understanding ECMAScript 6",
+    "author": "Nicholas C. Zakas"
+  },
+  {
+    "id": "e1Tpn_I3wBkLREY6wG0lb",
+    "title": "Learning JavaScript Design Patterns",
+    "author": "Addy Osmani"
+  },
+  {
+    "id": "dkJSszfrRVtLVR_MfRqcu",
+    "title": "Pro Git",
+    "author": "Scott Chacon and Ben Straub"
+  },
+  {
+    "id": "CTHE0f1kkWwqS5sL2tI8_",
+    "title": "Rethinking Productivity in Software Engineering",
+    "author": "Caitlin Sadowski, Thomas Zimmermann"
+  },
+  {
+    "title": "Test 32",
+    "author": "Luke Skywalker",
+    "id": "640782c995c108797de0cd16"
+  },
+  {
+    "id": "640a30e5fbf365e1777800a1"
+  },
+  {
+    "title": "Test",
+    "id": "640a313e7032b4e208668fc0"
+  },
+  {
+    "title": "Test",
+    "author": "Author",
+    "id": "640a3155758e33e22fe884d3"
+  },
+  {
+    "title": "Test",
+    "author": "Author",
+    "id": "640a3173f86c90e258dfde55"
+  },
+  {
+    "title": "Test",
+    "author": "Author",
+    "id": "640a319de4f57ee2a7012712"
+  },
+  {
+    "title": "Test",
+    "author": "Author",
+    "id": "640a31cb53ef31e2ecca3afa"
+  },
+  {
+    "title": "Test",
+    "author": "Author",
+    "id": "640a31dc1d46bfe31a7d42e0"
+  },
+  {
+    "title": "Test",
+    "author": "Author",
+    "id": "640a31e7a0aa3de342bb8993"
+  },
+  {
+    "title": "Test",
+    "author": "Author",
+    "id": "640a320524e995e376f87c74"
+  },
+  {
+    "title": "Test",
+    "author": "Author",
+    "id": "640a32126b5722e39234208d"
+  },
+  {
+    "title": "Test",
+    "author": "Author",
+    "id": "640a324645a505e3f5771e48"
+  }
+]
